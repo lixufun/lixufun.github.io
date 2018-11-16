@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[小王子]]></title>
+    <url>%2F2018%2F11%2F16%2Fxiaowangzi%2F</url>
+    <content type="text"><![CDATA[&nbsp; 小王子又去看了玫瑰：&nbsp; “你们一点都不像我的玫瑰，你们还什么都不是。”他对它们说道，“还没人驯化你们，你们也没有驯化任何人。你们就像过去的我的狐狸。那时它和其他几十万只狐狸没什么两样。然而，我把它变成了我的朋友，它现在是世界上独一无二的了。”&nbsp; 玫瑰们十分尴尬。&nbsp; “你们很美，可是你们很空虚。”他接着对它们说，“没有人能为你们去死。当然，我的那朵玫瑰，一般的过路人见到了会认为它和你们一样。可是就它一个，比你们所有的玫瑰更重要，因为，是我浇灌了它；因为，是我把它放在玻璃罩下；因为，是我用屏风保护了它；因为，是我帮它杀死了毛毛虫（只留下两三条让它们变成蝴蝶）；因为我听过它哀诉和吹嘘，甚至听过它的沉默；还因为它是我的玫瑰。”]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo博客搭建心得]]></title>
     <url>%2F2018%2F11%2F15%2Fhexo-gihub%2F</url>
     <content type="text"><![CDATA[起因一年前刚注册lixu.fun时便有要搭建个人网站的想法，由于考虑到服务器成本及未确定网站内容，便搁置了。本周学习积极性不高，于是去探索“方法论”。在听得到时，学习成果输出再次被提及，于是有了建立博客网站的念头。 决定使用Hexo+Github博客的模式，减少了服务器的租用。过程中遇到了很多问题，所以做此总结。 第二天 网站搭建 8小时 第三天 主题、插件设置 4小时 过程准备 安装Node.js 安装GitNode、Git通过官网下载，其他途径的老版本会造成Hexo安装不上 安装sublime 注册Github 搭建 安装Hexo由于版本问题安装不上，彻底删除安装官网新版 Github SSH Kep配置 配置 安装NexT 配置域名两条记录，记录到github域名 安装插件 使用 创建分类 MarkDowm 参考Hexo文档NexT文档MarkDown文档simon博客hojun博客高鸿祥简书heimu24CSDN 总结 多参考官方文档 不要盲目依赖教程 从根源上发现问题 进一步学习 仅以此作为开始，Peace]]></content>

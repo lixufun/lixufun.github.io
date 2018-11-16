@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lixufun.github.io/"/>
-  <updated>2018-11-15T04:09:20.687Z</updated>
+  <updated>2018-11-16T12:39:09.294Z</updated>
   <id>https://lixufun.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小王子</title>
+    <link href="https://lixufun.github.io/2018/11/16/xiaowangzi/"/>
+    <id>https://lixufun.github.io/2018/11/16/xiaowangzi/</id>
+    <published>2018-11-16T12:21:47.000Z</published>
+    <updated>2018-11-16T12:39:09.294Z</updated>
+    
+    <content type="html"><![CDATA[<p>&nbsp;   小王子又去看了玫瑰：<br>&nbsp;   “你们一点都不像我的玫瑰，你们还什么都不是。”他对它们说道，“还没人驯化你们，你们也没有驯化任何人。你们就像过去的我的狐狸。那时它和其他几十万只狐狸没什么两样。然而，我把它变成了我的朋友，它现在是世界上独一无二的了。”<br>&nbsp;   玫瑰们十分尴尬。<br>&nbsp;   “你们很美，可是你们很空虚。”他接着对它们说，“没有人能为你们去死。当然，我的那朵玫瑰，一般的过路人见到了会认为它和你们一样。可是就它一个，比你们所有的玫瑰更重要，因为，是我浇灌了它；因为，是我把它放在玻璃罩下；因为，是我用屏风保护了它；因为，是我帮它杀死了毛毛虫（只留下两三条让它们变成蝴蝶）；因为我听过它哀诉和吹嘘，甚至听过它的沉默；还因为它是我的玫瑰。”</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&amp;nbsp;   小王子又去看了玫瑰：&lt;br&gt;&amp;nbsp;   “你们一点都不像我的玫瑰，你们还什么都不是。”他对它们说道，“还没人驯化你们，你们也没有驯化任何人。你们就像过去的我的狐狸。那时它和其他几十万只狐狸没什么两样。然而，我把它变成了我的朋友，它现在是世界上独一无二
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="https://lixufun.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo博客搭建心得</title>
